@@ -1,5 +1,15 @@
 # 💫 About Me:
-¡Hola! Soy Noah Cassutti.<br><br>👨‍🏫Estudio Ingeniería  en Sistemas, y la tecnicatura en desarrollo web  y aplicaciones digitales. <br> 📚He aprendido tecnologías como HTML, CSS, JAVASCRIPT, PYTHON, VUEJS, BOOTSTRAP, FLASK, DJANGO, SQL, a través de mis carreras y de forma autodidacta o con cursos de programación.<br>📌Tengo experiencia en ingles, debido a mi escuela y por capacitaciones.<br><br>Mi búsqueda constante de conocimiento me impulsa a crecerm en el mundo de la programación y la informática. Siempre dispuesto a enfrentar nuevos desafíos y mejorar mis habilidades en el desarrollo de software.<br>Busco siempre contribuir al desarrollo de soluciones innovadoras. Amante de la tecnología y la colaboración en equipo, me esfuerzo por aplicar mis conocimientos en proyectos que tengan un impacto positivo en la sociedad. ¡Siempre dispuesto a seguir aprendiendo y evolucionando! Con mi formación en inglés y mi pasión por la programación, aspiro a abordar desafíos globales y contribuir al progreso tecnológico.<br>     <br>
+¡Hola! Soy Noah Cassutti.<br><br>👨‍🏫Estudio Ingeniería  en Sistemas, y la tecnicatura en desarrollo web  y aplicaciones digitales. <br> 📚He aprendido tecnologías como HTML, CSS, JAVASCRIPT, PYTHON, VUEJS, BOOTSTRAP, FLASK, DJANGO, SQL, a través de mis carreras y de forma autodidacta o con cursos de programación.<br>📌Tengo experiencia en ingles, debido a mi escuela y por capacitaciones.<br><br>¡Bienvenido a mi GitHub!<br>
+
+Soy un entusiasta de la informática y la programación, siempre en búsqueda constante de conocimiento y dispuesto a abrazar nuevos desafíos para mejorar mis habilidades en el desarrollo de software.<br?>
+
+Mi verdadera pasión es contribuir al mundo tecnológico mediante la creación de soluciones innovadoras con un impacto positivo en la sociedad. Disfruto colaborar en equipos y aprovechar la sinergia que se genera para lograr resultados excepcionales.<br>
+
+Mi viaje en la programación es un constante proceso de aprendizaje y evolución. Siempre estoy buscando oportunidades para abordar desafíos globales y aportar mi granito de arena al progreso tecnológico. Además, mi formación en inglés me permite comunicarme eficazmente en un entorno internacional, lo que me motiva aún más para enfrentar proyectos a nivel global.<br?
+
+En este repositorio, podrás explorar proyectos en los que he trabajado, demostrando mi dedicación y amor por la programación, así como mi compromiso de seguir creciendo como desarrollador.<br>
+
+Únete a este emocionante viaje de aprendizaje y juntos construyamos un futuro tecnológico lleno de posibilidades y soluciones innovadoras que mejoren la vida de las personas en todo el mundo. ¡Espero que disfrutes explorando mi trabajo!<br>
 
 
 ## 🌐 Socials:
