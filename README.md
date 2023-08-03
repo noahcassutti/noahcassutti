@@ -5,7 +5,7 @@ Soy un entusiasta de la informática y la programación, siempre en búsqueda co
 
 Mi verdadera pasión es contribuir al mundo tecnológico mediante la creación de soluciones innovadoras con un impacto positivo en la sociedad. Disfruto colaborar en equipos y aprovechar la sinergia que se genera para lograr resultados excepcionales.<br>
 
-Mi viaje en la programación es un constante proceso de aprendizaje y evolución. Siempre estoy buscando oportunidades para abordar desafíos globales y aportar mi granito de arena al progreso tecnológico. Además, mi formación en inglés me permite comunicarme eficazmente en un entorno internacional, lo que me motiva aún más para enfrentar proyectos a nivel global.<br?
+Mi viaje en la programación es un constante proceso de aprendizaje y evolución. Siempre estoy buscando oportunidades para abordar desafíos globales y aportar mi granito de arena al progreso tecnológico. Además, mi formación en inglés me permite comunicarme eficazmente en un entorno internacional, lo que me motiva aún más para enfrentar proyectos a nivel global.<br>
 
 En este repositorio, podrás explorar proyectos en los que he trabajado, demostrando mi dedicación y amor por la programación, así como mi compromiso de seguir creciendo como desarrollador.<br>
 
