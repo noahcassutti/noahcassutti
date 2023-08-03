@@ -1,7 +1,7 @@
 # 💫 About Me:
 ¡Hola! Soy Noah Cassutti.<br><br>👨‍🏫Estudio Ingeniería  en Sistemas, y la tecnicatura en desarrollo web  y aplicaciones digitales. <br> 📚He aprendido tecnologías como HTML, CSS, JAVASCRIPT, PYTHON, VUEJS, BOOTSTRAP, FLASK, DJANGO, SQL, a través de mis carreras y de forma autodidacta o con cursos de programación.<br>📌Tengo experiencia en ingles, debido a mi escuela y por capacitaciones.<br><br>¡Bienvenido a mi GitHub!<br>
 
-Soy un entusiasta de la informática y la programación, siempre en búsqueda constante de conocimiento y dispuesto a abrazar nuevos desafíos para mejorar mis habilidades en el desarrollo de software.<br?>
+Soy un entusiasta de la informática y la programación, siempre en búsqueda constante de conocimiento y dispuesto a abrazar nuevos desafíos para mejorar mis habilidades en el desarrollo de software.<br>
 
 Mi verdadera pasión es contribuir al mundo tecnológico mediante la creación de soluciones innovadoras con un impacto positivo en la sociedad. Disfruto colaborar en equipos y aprovechar la sinergia que se genera para lograr resultados excepcionales.<br>
 
