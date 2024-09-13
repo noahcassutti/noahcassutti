@@ -24,3 +24,8 @@ En este repositorio, podrás explorar proyectos en los que he trabajado, demostr
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+</br>
+
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/noahcassutti/count.svg" /> </p>
