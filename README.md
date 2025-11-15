@@ -1,15 +1,16 @@
 # 💫 About Me:
-¡Hola! Soy Noah Cassutti.<br><br>👨‍🏫Estudio Ingeniería  en Sistemas, y la tecnicatura en desarrollo web  y aplicaciones digitales. <br> 📚He aprendido tecnologías como HTML, CSS, JAVASCRIPT, PYTHON, VUEJS, BOOTSTRAP, FLASK, DJANGO, SQL, a través de mis carreras y de forma autodidacta o con cursos de programación.<br>📌Tengo experiencia en ingles, debido a mi escuela y por capacitaciones.<br><br>¡Bienvenidx a mi GitHub!<br>
 
-Soy un entusiasta de la informática y la programación, siempre en búsqueda constante de conocimiento y dispuesto a abrazar nuevos desafíos para mejorar mis habilidades en el desarrollo de software.<br>
+¡Hola! Soy **Noah Cassutti**.
 
-Mi verdadera pasión es contribuir al mundo tecnológico mediante la creación de soluciones innovadoras con un impacto positivo en la sociedad. Disfruto colaborar en equipos y aprovechar la sinergia que se genera para lograr resultados excepcionales.<br>
+Soy **Técnico en Desarrollo Web y Aplicaciones Digitales** y continúo formándome en el área de sistemas. A lo largo de mi carrera y estudios autodidactas he aprendido tecnologías como **HTML, CSS, JavaScript, Python, Bootstrap, Node.js, Express, SQL, Angular, Java y Android Studio**.
 
-Mi viaje en la programación es un constante proceso de aprendizaje y evolución. Siempre estoy buscando oportunidades para abordar desafíos globales y aportar mi granito de arena al progreso tecnológico. Además, mi formación en inglés me permite comunicarme eficazmente en un entorno internacional, lo que me motiva aún más para enfrentar proyectos a nivel global.<br>
+Me apasiona el desarrollo de software, el aprendizaje continuo y la creación de soluciones útiles. Disfruto trabajar en equipo, descubrir nuevas herramientas y asumir desafíos que me impulsen a crecer profesionalmente.
 
-En este repositorio, podrás explorar proyectos en los que he trabajado, demostrando mi dedicación y amor por la programación, así como mi compromiso de seguir creciendo como desarrollador.<br>
+En este repositorio encontrarás proyectos que reflejan mi dedicación y entusiasmo por el mundo del desarrollo web y móvil.
 
-Únete a este emocionante viaje de aprendizaje y juntos construyamos un futuro tecnológico lleno de posibilidades y soluciones innovadoras que mejoren la vida de las personas en todo el mundo. ¡Espero que disfrutes explorando mi trabajo!<br>
+¡Bienvenidx a mi GitHub! 🚀
+
+---
 
 
 ## 🌐 Socials:
