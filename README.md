@@ -18,5 +18,3 @@ En este repositorio encontrarás proyectos que reflejan mi dedicación y entusia
 
 
 </br>
-
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/noahcassutti/count.svg" /> </p>
